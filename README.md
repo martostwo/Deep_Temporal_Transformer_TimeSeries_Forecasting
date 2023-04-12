@@ -1,4 +1,4 @@
-# Deep Temporal Transformer for time series forecasting.
+# Deep Temporal Transformer for time series forecasting. 
 
 A proposal for a new architecture for time series prediction based on Transformers.
 
